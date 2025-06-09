@@ -7,7 +7,7 @@ export default async function handler(req, res) {
         'sm': '6717b5304a0aa795e1de7bf6', // semaglutide monthly $249
         's90': '6740b24d549a89a4abc4d25c', // semaglutide 90-day $498
         'tm': '6717b5946a2fc2a2500998dd',  // tirzepatide monthly $349
-        't90': '6740b2cfe34bda25c01b2108'  // tirzepatide 90-day $658
+        #'t90': '6740b2cfe34bda25c01b2108'  // tirzepatide 90-day $658
     };
     
     try {
